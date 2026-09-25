@@ -1,0 +1,6 @@
+{
+  "name": "Topaz Executive: Business Simulation",
+  "description": "A browser-only strategic business simulation game modeled on Topaz-VBE with deterministic quarterly execution, operations, marketing, personnel, and financial modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
