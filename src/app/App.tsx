@@ -52,7 +52,7 @@ export const App: React.FC = () => {
           This is a university semester project and does not have any direct relation with Topaz-Vbe.
         </p>
         <p className="mt-1 text-slate-400">
-          Student Name: <span className="text-slate-300 font-semibold">Malik Saad</span> (BAF Student) • Educational academic project — legal to publish.
+          Student Name: <span className="text-slate-300 font-semibold">Saad Khalid</span> (BAF Student) • Educational academic project — legal to publish.
         </p>
         <div className="mt-2 flex items-center justify-center gap-3 text-[11px] text-slate-400">
           <span>Browser-Only Offline Persistence via IndexedDB</span>
@@ -106,7 +106,7 @@ export const App: React.FC = () => {
                 <strong className="text-white">Institution:</strong> COMSATS University
               </li>
               <li>
-                <strong className="text-white">Student:</strong> Malik Saad (BAF Student)
+                <strong className="text-white">Student:</strong> Saad Khalid (BAF Student)
               </li>
               <li>
                 <strong className="text-white">Nature of Project:</strong> University semester project and graded assignment only.
